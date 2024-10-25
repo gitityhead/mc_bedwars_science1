@@ -5,3 +5,7 @@ world_nether/
 world_the_end/
 logs/
 .console_history
+.DS_Store
+server.jar
+libraries/
+
