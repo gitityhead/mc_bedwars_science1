@@ -1,4 +1,4 @@
-name: vania_squad
+name: vania-squad
 pauseCountdown: 60
 gameTime: 3600
 world: world
@@ -7,7 +7,7 @@ pos2: -96.5;112.0;-96.5;-49.18969;27.600119
 specSpawn: 0.682169005393914;103.51239581089384;-0.21558485370774724;179.84546;90.0
 lobbySpawn: 0.779586872419032;118.0;0.5200424633796429;91.3468;11.249907
 lobbySpawnWorld: world
-minPlayers: 2
+minPlayers: 4
 postGameWaiting: 3
 teams:
   red:
