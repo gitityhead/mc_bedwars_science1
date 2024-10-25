@@ -1,0 +1,73 @@
+data:
+  790ef122-cb5c-3b5a-a737-2bd365be649b:
+    kills: 10
+    wins: 3
+    score: 250
+    loses: 2
+    name: Prinzugen
+    destroyedBeds: 0
+    deaths: 8
+  6e807fdb-d0f3-3db2-b676-745b8c81cb31:
+    kills: 1
+    wins: 0
+    score: 35
+    loses: 2
+    name: chrisza
+    destroyedBeds: 1
+    deaths: 4
+  6588e380-abb9-30d0-b0d1-5386e4a68f6a:
+    kills: 1
+    wins: 0
+    score: 10
+    loses: 1
+    name: junz
+    destroyedBeds: 0
+    deaths: 4
+  da5dbc9e-f623-30ad-8818-6ff24ea01ad2:
+    kills: 0
+    wins: 0
+    score: 0
+    loses: 0
+    name: ipxGaming
+    destroyedBeds: 0
+    deaths: 0
+  69038ad5-88bc-3547-9e54-8a2e486a10b5:
+    kills: 16
+    wins: 3
+    score: 360
+    loses: 4
+    name: edh
+    destroyedBeds: 2
+    deaths: 22
+  0b1eb3dd-c84f-39e3-bbba-eab24d91d1cd:
+    kills: 4
+    wins: 2
+    score: 215
+    loses: 1
+    name: juangonzalez1984
+    destroyedBeds: 3
+    deaths: 10
+  fe95960a-0e44-3559-8300-65dbd787e75a:
+    kills: 0
+    wins: 1
+    score: 50
+    loses: 0
+    name: Deepwallet12
+    destroyedBeds: 0
+    deaths: 0
+  d57e8535-52f3-35e1-87eb-f49a9cd1bab2:
+    kills: 19
+    wins: 13
+    score: 1165
+    loses: 4
+    name: gitityhead
+    destroyedBeds: 13
+    deaths: 39
+  530fa97a-357f-3c19-94d3-0c5c65c18fe8:
+    kills: 0
+    wins: 3
+    score: 350
+    loses: 3
+    name: test
+    destroyedBeds: 0
+    deaths: 3
