@@ -11,57 +11,57 @@ minPlayers: 2
 postGameWaiting: 3
 teams:
   red:
-    isNewColor: false
+    isNewColor: true
     color: RED
     maxPlayers: 4
     bed: -33.0;66.0;-65.0;0.0;0.0
     spawn: -33.56789348477031;66.0;-74.29979071285008;-0.4442749;1.9500446
     actualName: red
   pink:
-    isNewColor: false
+    isNewColor: true
     color: PINK
     maxPlayers: 4
     bed: -65.0;66.0;33.0;0.0;0.0
     spawn: -74.68362417989385;66.0;34.08529820934034;-87.901;-0.9000941
     actualName: pink
   green:
-    isNewColor: false
-    color: GREEN
+    isNewColor: true
+    color: LIME
     maxPlayers: 4
     bed: 65.0;66.0;-33.0;0.0;0.0
     spawn: 75.49305710914714;66.0;-33.586424491237146;87.15326;-4.95005
     actualName: green
   white:
-    isNewColor: false
+    isNewColor: true
     color: WHITE
     maxPlayers: 4
     bed: -33.0;66.0;65.0;0.0;0.0
     spawn: -32.054638336731394;66.0;75.67612679888315;179.84949;-0.90008813
     actualName: white
   yellow:
-    isNewColor: false
+    isNewColor: true
     color: YELLOW
     maxPlayers: 4
     bed: 65.0;66.0;33.0;0.0;0.0
     spawn: 76.21716139794408;66.0;32.7367589904916;90.453735;-0.15006728
     actualName: yellow
   cyan:
-    isNewColor: false
+    isNewColor: true
     color: CYAN
     maxPlayers: 4
     bed: 33.0;66.0;65.0;0.0;0.0
     spawn: 34.3970299296949;66.0;75.86478477942488;179.55444;-0.60008025
     actualName: cyan
   blue:
-    isNewColor: false
-    color: BLUE
+    isNewColor: true
+    color: LIGHT_BLUE
     maxPlayers: 4
     bed: 33.0;66.0;-65.0;0.0;0.0
     spawn: 32.569398568563074;66.0;-75.26455755230852;-0.7468262;0.1499532
     actualName: blue
   gray:
-    isNewColor: false
-    color: GRAY
+    isNewColor: true
+    color: LIGHT_GRAY
     maxPlayers: 4
     bed: -65.0;66.0;-33.0;0.0;0.0
     spawn: -74.63769530465906;66.0;-31.83388864588352;-92.10364;-2.400106
@@ -81,140 +81,140 @@ spawners:
   startLevel: 1.0
   team: null
   type: gold
-- maxSpawnedResources: -1
+- maxSpawnedResources: 8
   hologramEnabled: true
   location: 32.53572853708319;65.5;-76.64896541050162;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: gold
-- maxSpawnedResources: -1
+- maxSpawnedResources: 48
   hologramEnabled: true
   location: 32.53572853708319;65.5;-76.64896541050162;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: iron
-- maxSpawnedResources: -1
+- maxSpawnedResources: 48
   hologramEnabled: true
   location: 77.8506498972901;65.5;-33.44353843930858;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: iron
-- maxSpawnedResources: -1
+- maxSpawnedResources: 8
   hologramEnabled: true
   location: 77.8506498972901;65.5;-33.44353843930858;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: gold
-- maxSpawnedResources: -1
+- maxSpawnedResources: 48
   hologramEnabled: true
   location: 77.58215892619346;65.5;32.668460013978624;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: iron
-- maxSpawnedResources: -1
+- maxSpawnedResources: 8
   hologramEnabled: true
   location: 77.58215892619346;65.5;32.668460013978624;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: gold
-- maxSpawnedResources: -1
+- maxSpawnedResources: 48
   hologramEnabled: true
   location: 34.56095816233307;65.5;77.80669782709334;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: iron
-- maxSpawnedResources: -1
+- maxSpawnedResources: 8
   hologramEnabled: true
   location: 34.56095816233307;65.5;77.80669782709334;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: gold
-- maxSpawnedResources: -1
+- maxSpawnedResources: 48
   hologramEnabled: true
   location: -31.534542861731072;65.5;77.63856934090407;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: iron
-- maxSpawnedResources: -1
+- maxSpawnedResources: 8
   hologramEnabled: true
   location: -31.534542861731072;65.5;77.63856934090407;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: gold
-- maxSpawnedResources: -1
+- maxSpawnedResources: 8
   hologramEnabled: true
   location: -76.5395506524211;65.5;34.44459745828612;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: gold
-- maxSpawnedResources: -1
+- maxSpawnedResources: 48
   hologramEnabled: true
   location: -76.5395506524211;65.5;34.44459745828612;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: iron
-- maxSpawnedResources: -1
+- maxSpawnedResources: 8
   hologramEnabled: true
   location: -76.83250210107421;65.5;-31.554836576746474;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: gold
-- maxSpawnedResources: -1
+- maxSpawnedResources: 48
   hologramEnabled: true
   location: -76.83250210107421;65.5;-31.554836576746474;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: iron
-- maxSpawnedResources: -1
+- maxSpawnedResources: 4
   hologramEnabled: true
   location: 0.5179504506768267;64.0;-51.596941857515674;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: diamond
-- maxSpawnedResources: -1
+- maxSpawnedResources: 4
   hologramEnabled: true
   location: 52.590556336549966;64.0;0.32502963992396094;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: diamond
-- maxSpawnedResources: -1
+- maxSpawnedResources: 4
   hologramEnabled: true
   location: 0.5388559988773971;64.0;52.419671323195956;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: diamond
-- maxSpawnedResources: -1
+- maxSpawnedResources: 4
   hologramEnabled: true
   location: -51.508945166310596;64.0;0.6039707278573597;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: diamond
-- maxSpawnedResources: -1
+- maxSpawnedResources: 4
   hologramEnabled: true
   location: -11.54004735233822;78.0;-11.432969749100629;0.0;0.0
   customName: null
   startLevel: 1.0
   team: null
   type: emerald
-- maxSpawnedResources: -1
+- maxSpawnedResources: 4
   hologramEnabled: true
   location: 12.47325656979153;78.0;12.479886872210464;0.0;0.0
   customName: null
