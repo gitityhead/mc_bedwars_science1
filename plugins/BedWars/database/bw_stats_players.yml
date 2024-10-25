@@ -1,20 +1,4 @@
 data:
-  790ef122-cb5c-3b5a-a737-2bd365be649b:
-    kills: 10
-    wins: 3
-    score: 250
-    loses: 2
-    name: Prinzugen
-    destroyedBeds: 0
-    deaths: 8
-  6e807fdb-d0f3-3db2-b676-745b8c81cb31:
-    kills: 1
-    wins: 0
-    score: 35
-    loses: 2
-    name: chrisza
-    destroyedBeds: 1
-    deaths: 4
   6588e380-abb9-30d0-b0d1-5386e4a68f6a:
     kills: 1
     wins: 0
@@ -47,22 +31,6 @@ data:
     name: juangonzalez1984
     destroyedBeds: 3
     deaths: 10
-  fe95960a-0e44-3559-8300-65dbd787e75a:
-    kills: 0
-    wins: 1
-    score: 50
-    loses: 0
-    name: Deepwallet12
-    destroyedBeds: 0
-    deaths: 0
-  d57e8535-52f3-35e1-87eb-f49a9cd1bab2:
-    kills: 19
-    wins: 13
-    score: 1165
-    loses: 4
-    name: gitityhead
-    destroyedBeds: 13
-    deaths: 39
   530fa97a-357f-3c19-94d3-0c5c65c18fe8:
     kills: 0
     wins: 3
@@ -70,4 +38,68 @@ data:
     loses: 3
     name: test
     destroyedBeds: 0
+    deaths: 3
+  790ef122-cb5c-3b5a-a737-2bd365be649b:
+    kills: 25
+    wins: 7
+    score: 700
+    loses: 2
+    name: Prinzugen
+    destroyedBeds: 4
+    deaths: 21
+  6e807fdb-d0f3-3db2-b676-745b8c81cb31:
+    kills: 13
+    wins: 2
+    score: 305
+    loses: 5
+    name: chrisza
+    destroyedBeds: 3
+    deaths: 14
+  fa13bf1f-5cb1-3e09-b117-2def0f8fbe2e:
+    kills: 5
+    wins: 2
+    score: 175
+    loses: 4
+    name: Fredo
+    destroyedBeds: 1
+    deaths: 10
+  fe95960a-0e44-3559-8300-65dbd787e75a:
+    kills: 7
+    wins: 1
+    score: 120
+    loses: 6
+    name: Deepwallet12
+    destroyedBeds: 0
+    deaths: 26
+  ac48fe86-4bcf-37e9-9c35-640c2c828e21:
+    kills: 3
+    wins: 1
+    score: 80
+    loses: 4
+    name: d00krug3r
+    destroyedBeds: 0
+    deaths: 9
+  d57e8535-52f3-35e1-87eb-f49a9cd1bab2:
+    kills: 34
+    wins: 17
+    score: 1865
+    loses: 11
+    name: gitityhead
+    destroyedBeds: 27
+    deaths: 87
+  e3aee4b9-9aac-3012-83c6-01d9d0c2021b:
+    kills: 3
+    wins: 2
+    score: 155
+    loses: 3
+    name: Bedsex
+    destroyedBeds: 1
+    deaths: 10
+  213385d6-b68e-3558-80cc-ea94aaf3af37:
+    kills: 11
+    wins: 3
+    score: 335
+    loses: 2
+    name: chriszzzzza
+    destroyedBeds: 3
     deaths: 3
