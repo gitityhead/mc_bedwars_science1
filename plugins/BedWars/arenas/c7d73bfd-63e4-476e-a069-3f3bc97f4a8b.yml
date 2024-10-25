@@ -11,57 +11,57 @@ minPlayers: 2
 postGameWaiting: 3
 teams:
   red:
-    isNewColor: false
+    isNewColor: true
     color: RED
     maxPlayers: 1
     bed: -33.0;66.0;-65.0;0.0;0.0
     spawn: -33.56789348477031;66.0;-74.29979071285008;-0.4442749;1.9500446
     actualName: red
   pink:
-    isNewColor: false
+    isNewColor: true
     color: PINK
     maxPlayers: 1
     bed: -65.0;66.0;33.0;0.0;0.0
     spawn: -74.68362417989385;66.0;34.08529820934034;-87.901;-0.9000941
     actualName: pink
   green:
-    isNewColor: false
-    color: GREEN
+    isNewColor: true
+    color: LIME
     maxPlayers: 1
     bed: 65.0;66.0;-33.0;0.0;0.0
     spawn: 75.49305710914714;66.0;-33.586424491237146;87.15326;-4.95005
     actualName: green
   white:
-    isNewColor: false
+    isNewColor: true
     color: WHITE
     maxPlayers: 1
     bed: -33.0;66.0;65.0;0.0;0.0
     spawn: -32.054638336731394;66.0;75.67612679888315;179.84949;-0.90008813
     actualName: white
   yellow:
-    isNewColor: false
+    isNewColor: true
     color: YELLOW
     maxPlayers: 1
     bed: 65.0;66.0;33.0;0.0;0.0
     spawn: 76.21716139794408;66.0;32.7367589904916;90.453735;-0.15006728
     actualName: yellow
   cyan:
-    isNewColor: false
+    isNewColor: true
     color: CYAN
     maxPlayers: 1
     bed: 33.0;66.0;65.0;0.0;0.0
     spawn: 34.3970299296949;66.0;75.86478477942488;179.55444;-0.60008025
     actualName: cyan
   blue:
-    isNewColor: false
-    color: BLUE
+    isNewColor: true
+    color: LIGHT_BLUE
     maxPlayers: 1
     bed: 33.0;66.0;-65.0;0.0;0.0
     spawn: 32.569398568563074;66.0;-75.26455755230852;-0.7468262;0.1499532
     actualName: blue
   gray:
-    isNewColor: false
-    color: GRAY
+    isNewColor: true
+    color: LIGHT_GRAY
     maxPlayers: 1
     bed: -65.0;66.0;-33.0;0.0;0.0
     spawn: -74.63769530465906;66.0;-31.83388864588352;-92.10364;-2.400106
