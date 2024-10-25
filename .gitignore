@@ -4,7 +4,7 @@ world/
 world_nether/
 world_the_end/
 logs/
-.console_history
+.console_hitory
 .DS_Store
 server.jar
 libraries/
