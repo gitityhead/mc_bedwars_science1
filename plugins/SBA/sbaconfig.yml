@@ -10,9 +10,9 @@ tnt-fireball-jumping:
     source-damage: 1
     acceleration-y: 0.1
     reduce-y: 2.0
-    launch-multiplier: 3.4
-    detection-distance: 8.0
-    fall-damage: 3.0
+    launch-multiplier: 1
+    detection-distance: 5.0
+    fall-damage: 2.0
 explosion-damage: 0.25
 running-generator-drops:
 - DIAMOND
