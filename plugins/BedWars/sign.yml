@@ -8,3 +8,12 @@ sign:
     z: -5.0
     pitch: 0.0
     yaw: 0.0
+- name: vania_duo
+  location:
+    ==: org.bukkit.Location
+    world: world
+    x: -1.0
+    y: 119.0
+    z: -5.0
+    pitch: 0.0
+    yaw: 0.0
