@@ -7,12 +7,12 @@ debug:
 disable-item-damage: true
 permanent-items: false
 tnt-fireball-jumping:
-    source-damage: 1
-    acceleration-y: 0.1
-    reduce-y: 2.0
-    launch-multiplier: 1
-    detection-distance: 5.0
-    fall-damage: 2.0
+    source-damage: 2
+    acceleration-y: 1.5 # seems to do nothing/not much
+    reduce-y: -0.5 # does all of the upward launching
+    launch-multiplier: 0.7
+    detection-distance: 3.0 # max-distance would ideally be 4
+    fall-damage: 1.0
 explosion-damage: 0.25
 running-generator-drops:
 - DIAMOND
