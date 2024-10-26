@@ -111,14 +111,6 @@ data:
     name: d00krug3r
     destroyedBeds: 1
     deaths: 12
-  d57e8535-52f3-35e1-87eb-f49a9cd1bab2:
-    kills: 38
-    wins: 22
-    score: 2455
-    loses: 13
-    name: gitityhead
-    destroyedBeds: 31
-    deaths: 95
   530fa97a-357f-3c19-94d3-0c5c65c18fe8:
     kills: 0
     wins: 10
@@ -127,3 +119,11 @@ data:
     name: test
     destroyedBeds: 0
     deaths: 9
+  d57e8535-52f3-35e1-87eb-f49a9cd1bab2:
+    kills: 38
+    wins: 22
+    score: 2455
+    loses: 13
+    name: gitityhead
+    destroyedBeds: 31
+    deaths: 95
