@@ -63,14 +63,6 @@ data:
     name: Deepwallet12
     destroyedBeds: 0
     deaths: 26
-  ac48fe86-4bcf-37e9-9c35-640c2c828e21:
-    kills: 3
-    wins: 1
-    score: 80
-    loses: 4
-    name: d00krug3r
-    destroyedBeds: 0
-    deaths: 9
   e3aee4b9-9aac-3012-83c6-01d9d0c2021b:
     kills: 3
     wins: 2
@@ -87,14 +79,6 @@ data:
     name: chriszzzzza
     destroyedBeds: 3
     deaths: 3
-  d57e8535-52f3-35e1-87eb-f49a9cd1bab2:
-    kills: 36
-    wins: 22
-    score: 2410
-    loses: 12
-    name: gitityhead
-    destroyedBeds: 30
-    deaths: 88
   67128b5b-2e6b-3ad1-baa0-1b937b03e5c5:
     kills: 0
     wins: 0
@@ -127,3 +111,19 @@ data:
     name: test
     destroyedBeds: 0
     deaths: 8
+  d57e8535-52f3-35e1-87eb-f49a9cd1bab2:
+    kills: 38
+    wins: 22
+    score: 2455
+    loses: 13
+    name: gitityhead
+    destroyedBeds: 31
+    deaths: 94
+  ac48fe86-4bcf-37e9-9c35-640c2c828e21:
+    kills: 6
+    wins: 2
+    score: 185
+    loses: 4
+    name: d00krug3r
+    destroyedBeds: 1
+    deaths: 12
