@@ -103,22 +103,6 @@ data:
     name: bot2
     destroyedBeds: 0
     deaths: 0
-  530fa97a-357f-3c19-94d3-0c5c65c18fe8:
-    kills: 0
-    wins: 9
-    score: 950
-    loses: 6
-    name: test
-    destroyedBeds: 0
-    deaths: 8
-  d57e8535-52f3-35e1-87eb-f49a9cd1bab2:
-    kills: 38
-    wins: 22
-    score: 2455
-    loses: 13
-    name: gitityhead
-    destroyedBeds: 31
-    deaths: 94
   ac48fe86-4bcf-37e9-9c35-640c2c828e21:
     kills: 6
     wins: 2
@@ -127,3 +111,19 @@ data:
     name: d00krug3r
     destroyedBeds: 1
     deaths: 12
+  d57e8535-52f3-35e1-87eb-f49a9cd1bab2:
+    kills: 38
+    wins: 22
+    score: 2455
+    loses: 13
+    name: gitityhead
+    destroyedBeds: 31
+    deaths: 95
+  530fa97a-357f-3c19-94d3-0c5c65c18fe8:
+    kills: 0
+    wins: 10
+    score: 1000
+    loses: 6
+    name: test
+    destroyedBeds: 0
+    deaths: 9
