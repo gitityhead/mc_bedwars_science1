@@ -294,7 +294,7 @@ data:
             - "§7An iron golem that will protect"
             - "§7your team from the enemies."
             - ""
-      - price: 40 of iron
+      - price: 9999999 of iron
         properties: "ThrowableFireball"
         stack:
           type: FIRE_CHARGE
@@ -378,7 +378,7 @@ data:
       potion-type: healing
 
   - stack: TNT;1
-    price: 4 of gold
+    price: 99999999 of gold
     properties: "autoigniteabletnt"
     row: 3
     column: 7
